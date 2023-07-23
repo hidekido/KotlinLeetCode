@@ -78,4 +78,4 @@ outTmp/
 /test.output
 /kotlin-native/dist
 kotlin-ide/!/.idea/
-/.idea
+.idea
